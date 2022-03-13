@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- - Software Engineer at PUCRS -->
 <div>
   <a href="https://github.com/Miguel-de-Castro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Miguel-de-Castro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
